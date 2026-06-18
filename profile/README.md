@@ -44,10 +44,7 @@ We love community contributions! Whether you are a Vala developer, a Python back
 1. Fork the repository you want to contribute to.
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
 3. Write your code (please ensure clean code and proper GObject memory management).
-4. Open a *Pull Request*.
-
-> ⚠️ **Technical Note for Contributors:** 
-> To maintain strict code clarity and prevent namespace or function naming collisions across our projects, we **do not use** global `using` directives in our Vala source code. Please explicitly prefix namespaces (e.g., use `Gtk.Application` or `Soup.Message`).
+4. Open a *Pull Request
 
 ---
 
