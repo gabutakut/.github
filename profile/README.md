@@ -39,13 +39,6 @@ A modern, high-performance video player designed to deliver butter-smooth multim
 ## 🤝 Contributing
 
 We love community contributions! Whether you are a Vala developer, a Python backend enthusiast, a UI/UX designer, or someone looking to report bugs, your help is highly appreciated.
-
-### How to Get Started:
-1. Fork the repository you want to contribute to.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Write your code (please ensure clean code and proper GObject memory management).
-4. Open a *Pull Request
-
 ---
 
 ## 🛡️ License
